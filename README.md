@@ -2,7 +2,7 @@
 This parser collects book titles and prices from the first page of the classical literature section.
 
 # ОПИСАНИЕ 
-Данный проект представляет собой парсер, который собирает названия книг и цену с первой страницы раздела классической литературы с указанного сайта: http://books.toscrape.com/catalogue/category/books/classics_6/index.html . Код написан на языке Python с использованием пакетов bs4 и requests.
+Данный проект представляет собой парсер, который собирает названия книг и цену с первой страницы раздела классической литературы с указанного сайта: http://books.toscrape.com/catalogue/category/books/classics_6/index.html . Код написан на языке программирования Python, используются пакеты bs4 и requests.
 
 # УСТАНОВКА
 Для установки данной программы необходимо:
